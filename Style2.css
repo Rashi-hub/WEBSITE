@@ -1,0 +1,20 @@
+#diagL{
+    z-index:99;
+    position:absolute;
+    background: transparent !important;
+    background: url("G:\WEBSITE\PiZa\pizza-bg.png") !important;
+    background: no-repeat !important;
+    background: center center;
+    background: cover !important;
+   }
+
+
+   .img-responsive{
+    display: block;
+    max-width: 10%;
+    height: auto;
+  }
+   
+
+
+  
